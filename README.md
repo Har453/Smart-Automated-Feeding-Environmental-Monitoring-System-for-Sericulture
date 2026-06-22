@@ -59,7 +59,7 @@ The system uses a three-controller layered architecture:
 ```
 
 <p align="center">
-  <img src="images/block-diagram.jpg" width="700">
+  <img src="images/block_diagram(1).png" width="700">
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Block diagram illustrating Raspberry Pi vision processing, Arduino CNC control, 
 </p>
 
 <p align="center">
-  <img src="images/system-workflow.jpg" width="700">
+  <img src="images/flowchart.png" width="700">
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ System workflow showing image capture, leaf detection, automated dispensing, env
 8. Override — User can manually control feeding or environmental systems via the Blynk app or the onboard joystick.
 
 <p align="center">
-  <img src="images/controller-setup.jpg" width="650">
+  <img src="images/mcu.jpg" width="650">
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ Microcontroller integration setup containing Raspberry Pi, Arduino Uno, and CNC 
 </p>
 
 <p align="center">
-  <img src="images/dispensing-mechanism.jpg" width="650">
+  <img src="images/dispenser.jpg" width="650">
 </p>
 
 <p align="center">
