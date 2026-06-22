@@ -59,7 +59,7 @@ The system uses a three-controller layered architecture:
 ```
 
 <p align="center">
-  <img src="images/block_diagram(1).png" width="700">
+  <img src="images/block_diagram.png" width="700">
 </p>
 
 <p align="center">
