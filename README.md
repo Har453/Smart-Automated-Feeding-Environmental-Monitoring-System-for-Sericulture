@@ -67,7 +67,7 @@ Block diagram illustrating Raspberry Pi vision processing, Arduino CNC control, 
 </p>
 
 <p align="center">
-  <img src="images/flowchart.png" width="500">
+  <img src="images/flowchart.png" width="400">
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ System workflow showing image capture, leaf detection, automated dispensing, env
 8. Override — User can manually control feeding or environmental systems via the Blynk app or the onboard joystick.
 
 <p align="center">
-  <img src="images/mcu.jpg" width="550">
+  <img src="images/mcu.jpg" width="350">
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ Microcontroller integration setup containing Raspberry Pi, Arduino Uno, and CNC 
 </p>
 
 <p align="center">
-  <img src="images/dispenser.jpg" width="500">
+  <img src="images/dispenser.jpg" width="450">
 </p>
 
 <p align="center">
